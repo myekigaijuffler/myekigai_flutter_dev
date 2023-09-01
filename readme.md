@@ -1,17 +1,17 @@
-# Flutter B2B E-commerce App with Location-Based Discovery
+# Flutter B2B E-commerce App
 
 ## Objective
 
-Develop a Flutter-based B2B e-commerce application that allows businesses to buy and sell products and services within a B2B marketplace. Additionally, businesses should be able to add their shop locations, which can be discovered by other businesses on a map. This task aims to assess your proficiency in various aspects of Flutter development and key app development concepts.
+Develop a Flutter-based B2B e-commerce application that allows businesses to buy and sell products and services within a B2B marketplace. Additionally, businesses should be able to add their shop locations, which can be discovered by other businesses on a map.
 
 ## Features to Implement
 
 1. **User Registration and Login (3 points):**
    - Create screens for business user registration and login.
-   - Implement user authentication using Firebase Authentication or a similar service.
+   - Implement user authentication using App-write, Fire-base or custom API's (phone number or email).
 
 2. **Business Profile (3 points):**
-   - Allow businesses to view and edit their profile information, including shop name and contact details.
+   - Allow businesses to view and edit their profile information, including shop name and contact details or shop location.
    - Include a profile picture upload feature.
 
 3. **Product Listings (5 points):**
@@ -36,7 +36,7 @@ Develop a Flutter-based B2B e-commerce application that allows businesses to buy
 8. **Location-Based Business Discovery (4 points):**
    - Implement a map view where businesses can discover other nearby businesses on the map.
    - Enable map markers for businesses with shop locations.
-   - Implement interactions to view details of businesses on the map.
+   - Implement interactions to view details of businesses on the map (just like google maps or more interactive).
 
 9. **Responsive Design (2 points):**
    - Ensure that the app's UI is responsive and displays properly on different screen sizes and orientations.
@@ -53,4 +53,4 @@ Develop a Flutter-based B2B e-commerce application that allows businesses to buy
 - Implement error handling and validation where necessary.
 - Include comments and documentation to explain the code.
 - Create a `README.md` file with instructions on how to run the app and any additional notes.
-- Submit your completed project by [Specify Deadline].
+- Submit your completed project in 3 days.
