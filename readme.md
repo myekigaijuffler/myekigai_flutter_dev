@@ -47,7 +47,7 @@ Develop a Flutter-based B2B e-commerce application that allows businesses to buy
 ## Total Points: 30
 
 ## Additional Guidelines
-
+- Please add release apk file with your codebase.
 - Use clean and maintainable code.
 - Implement error handling and validation where necessary.
 - Include comments and documentation to explain the code.
